@@ -1,0 +1,54 @@
+name: Update EPL Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Match results and fixture changes: hourly at :25.
+    - cron: "25 * * * *"
+    # Singapore Pools public listings: daily at 08:05 Singapore time.
+    - cron: "5 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epl-data-updaters
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Update fixtures and results
+        run: node scripts/update-results.mjs
+
+      - name: Update Singapore Pools public listings
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '5 0 * * *'
+        run: node scripts/update-sgpools.mjs
+
+      - name: Validate generated JSON
+        run: |
+          node -e "JSON.parse(require('fs').readFileSync('data/schedule.json', 'utf8'))"
+          node -e "JSON.parse(require('fs').readFileSync('data/results.json', 'utf8'))"
+          node -e "JSON.parse(require('fs').readFileSync('data/sgpools-markets.json', 'utf8'))"
+
+      - name: Commit data changes
+        run: |
+          if git diff --quiet -- data/schedule.json data/results.json data/sgpools-markets.json; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/schedule.json data/results.json data/sgpools-markets.json
+          git commit -m "Update automated EPL data"
+          git push

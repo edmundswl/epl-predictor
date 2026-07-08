@@ -1,0 +1,2662 @@
+[
+  {
+    "id": "401879301",
+    "date": "2026-08-21T19:00Z",
+    "home": "Arsenal",
+    "away": "Coventry City",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879322",
+    "date": "2026-08-22T11:30Z",
+    "home": "Hull City",
+    "away": "Manchester United",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879298",
+    "date": "2026-08-22T14:00Z",
+    "home": "Nottingham Forest",
+    "away": "Leeds United",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879299",
+    "date": "2026-08-22T14:00Z",
+    "home": "Ipswich Town",
+    "away": "Sunderland",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879300",
+    "date": "2026-08-22T14:00Z",
+    "home": "Everton",
+    "away": "Crystal Palace",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879321",
+    "date": "2026-08-22T16:30Z",
+    "home": "Brentford",
+    "away": "Tottenham Hotspur",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879297",
+    "date": "2026-08-23T13:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Aston Villa",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401879320",
+    "date": "2026-08-23T13:00Z",
+    "home": "Manchester City",
+    "away": "AFC Bournemouth",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879319",
+    "date": "2026-08-23T15:30Z",
+    "home": "Newcastle United",
+    "away": "Liverpool",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879318",
+    "date": "2026-08-24T19:00Z",
+    "home": "Fulham",
+    "away": "Chelsea",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879294",
+    "date": "2026-08-28T19:00Z",
+    "home": "Crystal Palace",
+    "away": "Manchester City",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879314",
+    "date": "2026-08-29T11:30Z",
+    "home": "Liverpool",
+    "away": "Nottingham Forest",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879296",
+    "date": "2026-08-29T14:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Everton",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401879316",
+    "date": "2026-08-29T14:00Z",
+    "home": "Coventry City",
+    "away": "Hull City",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879312",
+    "date": "2026-08-29T16:30Z",
+    "home": "Tottenham Hotspur",
+    "away": "Newcastle United",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879313",
+    "date": "2026-08-30T13:00Z",
+    "home": "Sunderland",
+    "away": "Fulham",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879315",
+    "date": "2026-08-30T13:00Z",
+    "home": "Leeds United",
+    "away": "Brentford",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879317",
+    "date": "2026-08-30T13:00Z",
+    "home": "Chelsea",
+    "away": "Brighton & Hove Albion",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879293",
+    "date": "2026-08-30T15:30Z",
+    "home": "Manchester United",
+    "away": "Ipswich Town",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879295",
+    "date": "2026-08-31T19:00Z",
+    "home": "Aston Villa",
+    "away": "Arsenal",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879288",
+    "date": "2026-09-04T19:00Z",
+    "home": "Ipswich Town",
+    "away": "Liverpool",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879286",
+    "date": "2026-09-05T11:30Z",
+    "home": "Newcastle United",
+    "away": "AFC Bournemouth",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401878780",
+    "date": "2026-09-05T14:00Z",
+    "home": "Nottingham Forest",
+    "away": "Tottenham Hotspur",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879287",
+    "date": "2026-09-05T14:00Z",
+    "home": "Manchester City",
+    "away": "Coventry City",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879289",
+    "date": "2026-09-05T14:00Z",
+    "home": "Fulham",
+    "away": "Crystal Palace",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879290",
+    "date": "2026-09-05T14:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Leeds United",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401879311",
+    "date": "2026-09-05T14:00Z",
+    "home": "Brentford",
+    "away": "Sunderland",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401878781",
+    "date": "2026-09-05T16:30Z",
+    "home": "Hull City",
+    "away": "Aston Villa",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879291",
+    "date": "2026-09-06T13:00Z",
+    "home": "Everton",
+    "away": "Manchester United",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879292",
+    "date": "2026-09-06T15:30Z",
+    "home": "Arsenal",
+    "away": "Chelsea",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879279",
+    "date": "2026-09-12T14:00Z",
+    "home": "Liverpool",
+    "away": "Fulham",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879281",
+    "date": "2026-09-12T14:00Z",
+    "home": "Crystal Palace",
+    "away": "Ipswich Town",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879283",
+    "date": "2026-09-12T14:00Z",
+    "home": "Chelsea",
+    "away": "Hull City",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879284",
+    "date": "2026-09-12T14:00Z",
+    "home": "Aston Villa",
+    "away": "Nottingham Forest",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879285",
+    "date": "2026-09-12T14:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Brentford",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401879277",
+    "date": "2026-09-12T16:30Z",
+    "home": "Tottenham Hotspur",
+    "away": "Everton",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401878779",
+    "date": "2026-09-12T19:00Z",
+    "home": "Sunderland",
+    "away": "Arsenal",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879282",
+    "date": "2026-09-13T13:00Z",
+    "home": "Coventry City",
+    "away": "Brighton & Hove Albion",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879278",
+    "date": "2026-09-13T15:30Z",
+    "home": "Manchester United",
+    "away": "Manchester City",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879280",
+    "date": "2026-09-14T19:00Z",
+    "home": "Leeds United",
+    "away": "Newcastle United",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879275",
+    "date": "2026-09-18T19:00Z",
+    "home": "Brentford",
+    "away": "Chelsea",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879269",
+    "date": "2026-09-19T11:30Z",
+    "home": "Tottenham Hotspur",
+    "away": "Aston Villa",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401878778",
+    "date": "2026-09-19T14:00Z",
+    "home": "Everton",
+    "away": "Ipswich Town",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879271",
+    "date": "2026-09-19T14:00Z",
+    "home": "Newcastle United",
+    "away": "Hull City",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879272",
+    "date": "2026-09-19T14:00Z",
+    "home": "Manchester City",
+    "away": "Sunderland",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879273",
+    "date": "2026-09-19T14:00Z",
+    "home": "Leeds United",
+    "away": "Crystal Palace",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879274",
+    "date": "2026-09-19T14:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Arsenal",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401879270",
+    "date": "2026-09-19T16:30Z",
+    "home": "Nottingham Forest",
+    "away": "Coventry City",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879276",
+    "date": "2026-09-20T13:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Liverpool",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878777",
+    "date": "2026-09-20T15:30Z",
+    "home": "Fulham",
+    "away": "Manchester United",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401878772",
+    "date": "2026-10-10T14:00Z",
+    "home": "Sunderland",
+    "away": "Brighton & Hove Albion",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878773",
+    "date": "2026-10-10T14:00Z",
+    "home": "Manchester United",
+    "away": "Tottenham Hotspur",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401878774",
+    "date": "2026-10-10T14:00Z",
+    "home": "Hull City",
+    "away": "Everton",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401878775",
+    "date": "2026-10-10T14:00Z",
+    "home": "Chelsea",
+    "away": "AFC Bournemouth",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401878776",
+    "date": "2026-10-10T14:00Z",
+    "home": "Aston Villa",
+    "away": "Brentford",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879264",
+    "date": "2026-10-10T14:00Z",
+    "home": "Liverpool",
+    "away": "Manchester City",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879265",
+    "date": "2026-10-10T14:00Z",
+    "home": "Ipswich Town",
+    "away": "Fulham",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879266",
+    "date": "2026-10-10T14:00Z",
+    "home": "Crystal Palace",
+    "away": "Nottingham Forest",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879267",
+    "date": "2026-10-10T14:00Z",
+    "home": "Coventry City",
+    "away": "Newcastle United",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879268",
+    "date": "2026-10-10T14:00Z",
+    "home": "Arsenal",
+    "away": "Leeds United",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401878769",
+    "date": "2026-10-17T14:00Z",
+    "home": "Nottingham Forest",
+    "away": "Arsenal",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401878770",
+    "date": "2026-10-17T14:00Z",
+    "home": "Fulham",
+    "away": "Hull City",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401878771",
+    "date": "2026-10-17T14:00Z",
+    "home": "Everton",
+    "away": "Chelsea",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879257",
+    "date": "2026-10-17T14:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Coventry City",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879258",
+    "date": "2026-10-17T14:00Z",
+    "home": "Newcastle United",
+    "away": "Aston Villa",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879259",
+    "date": "2026-10-17T14:00Z",
+    "home": "Manchester City",
+    "away": "Ipswich Town",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879260",
+    "date": "2026-10-17T14:00Z",
+    "home": "Leeds United",
+    "away": "Manchester United",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879261",
+    "date": "2026-10-17T14:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Crystal Palace",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401879262",
+    "date": "2026-10-17T14:00Z",
+    "home": "Brentford",
+    "away": "Liverpool",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879263",
+    "date": "2026-10-17T14:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Sunderland",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878764",
+    "date": "2026-10-24T14:00Z",
+    "home": "Sunderland",
+    "away": "Leeds United",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878765",
+    "date": "2026-10-24T14:00Z",
+    "home": "Liverpool",
+    "away": "Brighton & Hove Albion",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401878766",
+    "date": "2026-10-24T14:00Z",
+    "home": "Hull City",
+    "away": "Brentford",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401878767",
+    "date": "2026-10-24T14:00Z",
+    "home": "Chelsea",
+    "away": "Tottenham Hotspur",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401878768",
+    "date": "2026-10-24T14:00Z",
+    "home": "Arsenal",
+    "away": "Everton",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879252",
+    "date": "2026-10-24T14:00Z",
+    "home": "Manchester United",
+    "away": "AFC Bournemouth",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879253",
+    "date": "2026-10-24T14:00Z",
+    "home": "Ipswich Town",
+    "away": "Nottingham Forest",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879254",
+    "date": "2026-10-24T14:00Z",
+    "home": "Crystal Palace",
+    "away": "Newcastle United",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879255",
+    "date": "2026-10-24T14:00Z",
+    "home": "Coventry City",
+    "away": "Fulham",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879256",
+    "date": "2026-10-24T14:00Z",
+    "home": "Aston Villa",
+    "away": "Manchester City",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401878761",
+    "date": "2026-10-31T15:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Crystal Palace",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401878762",
+    "date": "2026-10-31T15:00Z",
+    "home": "Newcastle United",
+    "away": "Everton",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401878763",
+    "date": "2026-10-31T15:00Z",
+    "home": "Hull City",
+    "away": "Ipswich Town",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879245",
+    "date": "2026-10-31T15:00Z",
+    "home": "Manchester City",
+    "away": "Brighton & Hove Albion",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879246",
+    "date": "2026-10-31T15:00Z",
+    "home": "Liverpool",
+    "away": "Arsenal",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879247",
+    "date": "2026-10-31T15:00Z",
+    "home": "Coventry City",
+    "away": "Sunderland",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879248",
+    "date": "2026-10-31T15:00Z",
+    "home": "Chelsea",
+    "away": "Manchester United",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879249",
+    "date": "2026-10-31T15:00Z",
+    "home": "Brentford",
+    "away": "Nottingham Forest",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879250",
+    "date": "2026-10-31T15:00Z",
+    "home": "Aston Villa",
+    "away": "Fulham",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879251",
+    "date": "2026-10-31T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Leeds United",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878757",
+    "date": "2026-11-07T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "Manchester City",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401878758",
+    "date": "2026-11-07T15:00Z",
+    "home": "Leeds United",
+    "away": "Tottenham Hotspur",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401878759",
+    "date": "2026-11-07T15:00Z",
+    "home": "Ipswich Town",
+    "away": "AFC Bournemouth",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401878760",
+    "date": "2026-11-07T15:00Z",
+    "home": "Arsenal",
+    "away": "Hull City",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879239",
+    "date": "2026-11-07T15:00Z",
+    "home": "Sunderland",
+    "away": "Chelsea",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879240",
+    "date": "2026-11-07T15:00Z",
+    "home": "Manchester United",
+    "away": "Aston Villa",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879241",
+    "date": "2026-11-07T15:00Z",
+    "home": "Fulham",
+    "away": "Newcastle United",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879242",
+    "date": "2026-11-07T15:00Z",
+    "home": "Everton",
+    "away": "Coventry City",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879243",
+    "date": "2026-11-07T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Liverpool",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879244",
+    "date": "2026-11-07T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Brentford",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878754",
+    "date": "2026-11-21T15:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Ipswich Town",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401878755",
+    "date": "2026-11-21T15:00Z",
+    "home": "Liverpool",
+    "away": "Manchester United",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401878756",
+    "date": "2026-11-21T15:00Z",
+    "home": "Aston Villa",
+    "away": "Sunderland",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879232",
+    "date": "2026-11-21T15:00Z",
+    "home": "Newcastle United",
+    "away": "Arsenal",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879233",
+    "date": "2026-11-21T15:00Z",
+    "home": "Manchester City",
+    "away": "Fulham",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879234",
+    "date": "2026-11-21T15:00Z",
+    "home": "Hull City",
+    "away": "Brighton & Hove Albion",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879235",
+    "date": "2026-11-21T15:00Z",
+    "home": "Coventry City",
+    "away": "Crystal Palace",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879236",
+    "date": "2026-11-21T15:00Z",
+    "home": "Chelsea",
+    "away": "Leeds United",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879237",
+    "date": "2026-11-21T15:00Z",
+    "home": "Brentford",
+    "away": "Everton",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879238",
+    "date": "2026-11-21T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Nottingham Forest",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878752",
+    "date": "2026-11-28T15:00Z",
+    "home": "Ipswich Town",
+    "away": "Aston Villa",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401878753",
+    "date": "2026-11-28T15:00Z",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879224",
+    "date": "2026-11-28T15:00Z",
+    "home": "Sunderland",
+    "away": "Tottenham Hotspur",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879225",
+    "date": "2026-11-28T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "Chelsea",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879226",
+    "date": "2026-11-28T15:00Z",
+    "home": "Manchester United",
+    "away": "Brentford",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879227",
+    "date": "2026-11-28T15:00Z",
+    "home": "Leeds United",
+    "away": "Coventry City",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879228",
+    "date": "2026-11-28T15:00Z",
+    "home": "Fulham",
+    "away": "AFC Bournemouth",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879229",
+    "date": "2026-11-28T15:00Z",
+    "home": "Everton",
+    "away": "Liverpool",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879230",
+    "date": "2026-11-28T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Hull City",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879231",
+    "date": "2026-11-28T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Newcastle United",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878749",
+    "date": "2026-12-02T20:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Fulham",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401878750",
+    "date": "2026-12-02T20:00Z",
+    "home": "Brentford",
+    "away": "Arsenal",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401878751",
+    "date": "2026-12-02T20:00Z",
+    "home": "Aston Villa",
+    "away": "Everton",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879217",
+    "date": "2026-12-02T20:00Z",
+    "home": "Newcastle United",
+    "away": "Manchester United",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879218",
+    "date": "2026-12-02T20:00Z",
+    "home": "Manchester City",
+    "away": "Leeds United",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879219",
+    "date": "2026-12-02T20:00Z",
+    "home": "Liverpool",
+    "away": "Sunderland",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879220",
+    "date": "2026-12-02T20:00Z",
+    "home": "Hull City",
+    "away": "Nottingham Forest",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879221",
+    "date": "2026-12-02T20:00Z",
+    "home": "Coventry City",
+    "away": "Ipswich Town",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879222",
+    "date": "2026-12-02T20:00Z",
+    "home": "Chelsea",
+    "away": "Crystal Palace",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879223",
+    "date": "2026-12-02T20:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Brighton & Hove Albion",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878747",
+    "date": "2026-12-05T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "Brighton & Hove Albion",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401878748",
+    "date": "2026-12-05T15:00Z",
+    "home": "Newcastle United",
+    "away": "Sunderland",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879209",
+    "date": "2026-12-05T15:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Arsenal",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879210",
+    "date": "2026-12-05T15:00Z",
+    "home": "Manchester United",
+    "away": "Coventry City",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879211",
+    "date": "2026-12-05T15:00Z",
+    "home": "Leeds United",
+    "away": "Ipswich Town",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879212",
+    "date": "2026-12-05T15:00Z",
+    "home": "Everton",
+    "away": "Fulham",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879213",
+    "date": "2026-12-05T15:00Z",
+    "home": "Chelsea",
+    "away": "Liverpool",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879214",
+    "date": "2026-12-05T15:00Z",
+    "home": "Brentford",
+    "away": "Manchester City",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879215",
+    "date": "2026-12-05T15:00Z",
+    "home": "Aston Villa",
+    "away": "Crystal Palace",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879216",
+    "date": "2026-12-05T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Hull City",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878741",
+    "date": "2026-12-12T15:00Z",
+    "home": "Sunderland",
+    "away": "Nottingham Forest",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878742",
+    "date": "2026-12-12T15:00Z",
+    "home": "Manchester City",
+    "away": "Chelsea",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401878743",
+    "date": "2026-12-12T15:00Z",
+    "home": "Liverpool",
+    "away": "Leeds United",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401878744",
+    "date": "2026-12-12T15:00Z",
+    "home": "Ipswich Town",
+    "away": "Newcastle United",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401878745",
+    "date": "2026-12-12T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Everton",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878746",
+    "date": "2026-12-12T15:00Z",
+    "home": "Arsenal",
+    "away": "AFC Bournemouth",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879205",
+    "date": "2026-12-12T15:00Z",
+    "home": "Hull City",
+    "away": "Tottenham Hotspur",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879206",
+    "date": "2026-12-12T15:00Z",
+    "home": "Fulham",
+    "away": "Brentford",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879207",
+    "date": "2026-12-12T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Manchester United",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879208",
+    "date": "2026-12-12T15:00Z",
+    "home": "Coventry City",
+    "away": "Aston Villa",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401878738",
+    "date": "2026-12-19T15:00Z",
+    "home": "Sunderland",
+    "away": "Crystal Palace",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878739",
+    "date": "2026-12-19T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Ipswich Town",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878740",
+    "date": "2026-12-19T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Coventry City",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401879198",
+    "date": "2026-12-19T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "Everton",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879199",
+    "date": "2026-12-19T15:00Z",
+    "home": "Manchester City",
+    "away": "Hull City",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879200",
+    "date": "2026-12-19T15:00Z",
+    "home": "Liverpool",
+    "away": "Tottenham Hotspur",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879201",
+    "date": "2026-12-19T15:00Z",
+    "home": "Leeds United",
+    "away": "Fulham",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879202",
+    "date": "2026-12-19T15:00Z",
+    "home": "Chelsea",
+    "away": "Aston Villa",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879203",
+    "date": "2026-12-19T15:00Z",
+    "home": "Brentford",
+    "away": "Newcastle United",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879204",
+    "date": "2026-12-19T15:00Z",
+    "home": "Arsenal",
+    "away": "Manchester United",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401878731",
+    "date": "2026-12-26T15:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "AFC Bournemouth",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401878732",
+    "date": "2026-12-26T15:00Z",
+    "home": "Newcastle United",
+    "away": "Manchester City",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401878733",
+    "date": "2026-12-26T15:00Z",
+    "home": "Hull City",
+    "away": "Liverpool",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401878734",
+    "date": "2026-12-26T15:00Z",
+    "home": "Fulham",
+    "away": "Brighton & Hove Albion",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401878735",
+    "date": "2026-12-26T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Arsenal",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401878736",
+    "date": "2026-12-26T15:00Z",
+    "home": "Coventry City",
+    "away": "Chelsea",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401878737",
+    "date": "2026-12-26T15:00Z",
+    "home": "Aston Villa",
+    "away": "Leeds United",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879195",
+    "date": "2026-12-26T15:00Z",
+    "home": "Manchester United",
+    "away": "Nottingham Forest",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879196",
+    "date": "2026-12-26T15:00Z",
+    "home": "Ipswich Town",
+    "away": "Brentford",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879197",
+    "date": "2026-12-26T15:00Z",
+    "home": "Everton",
+    "away": "Sunderland",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401878730",
+    "date": "2026-12-30T20:00Z",
+    "home": "Coventry City",
+    "away": "Brentford",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879186",
+    "date": "2026-12-30T20:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Brighton & Hove Albion",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879187",
+    "date": "2026-12-30T20:00Z",
+    "home": "Newcastle United",
+    "away": "Nottingham Forest",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879188",
+    "date": "2026-12-30T20:00Z",
+    "home": "Manchester United",
+    "away": "Sunderland",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879189",
+    "date": "2026-12-30T20:00Z",
+    "home": "Ipswich Town",
+    "away": "Chelsea",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879190",
+    "date": "2026-12-30T20:00Z",
+    "home": "Hull City",
+    "away": "Leeds United",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879191",
+    "date": "2026-12-30T20:00Z",
+    "home": "Fulham",
+    "away": "Arsenal",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879192",
+    "date": "2026-12-30T20:00Z",
+    "home": "Everton",
+    "away": "Manchester City",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879193",
+    "date": "2026-12-30T20:00Z",
+    "home": "Crystal Palace",
+    "away": "AFC Bournemouth",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879194",
+    "date": "2026-12-30T20:00Z",
+    "home": "Aston Villa",
+    "away": "Liverpool",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401878728",
+    "date": "2027-01-02T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Manchester United",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878729",
+    "date": "2027-01-02T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Aston Villa",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401879178",
+    "date": "2027-01-02T15:00Z",
+    "home": "Sunderland",
+    "away": "Hull City",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879179",
+    "date": "2027-01-02T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "Fulham",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879180",
+    "date": "2027-01-02T15:00Z",
+    "home": "Manchester City",
+    "away": "Tottenham Hotspur",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879181",
+    "date": "2027-01-02T15:00Z",
+    "home": "Liverpool",
+    "away": "Coventry City",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879182",
+    "date": "2027-01-02T15:00Z",
+    "home": "Leeds United",
+    "away": "Everton",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879183",
+    "date": "2027-01-02T15:00Z",
+    "home": "Chelsea",
+    "away": "Newcastle United",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879184",
+    "date": "2027-01-02T15:00Z",
+    "home": "Brentford",
+    "away": "Crystal Palace",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879185",
+    "date": "2027-01-02T15:00Z",
+    "home": "Arsenal",
+    "away": "Ipswich Town",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401878727",
+    "date": "2027-01-06T20:00Z",
+    "home": "Sunderland",
+    "away": "Liverpool",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879169",
+    "date": "2027-01-06T20:00Z",
+    "home": "Nottingham Forest",
+    "away": "Hull City",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879170",
+    "date": "2027-01-06T20:00Z",
+    "home": "Manchester United",
+    "away": "Newcastle United",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879171",
+    "date": "2027-01-06T20:00Z",
+    "home": "Leeds United",
+    "away": "Manchester City",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879172",
+    "date": "2027-01-06T20:00Z",
+    "home": "Ipswich Town",
+    "away": "Coventry City",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879173",
+    "date": "2027-01-06T20:00Z",
+    "home": "Fulham",
+    "away": "Tottenham Hotspur",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879174",
+    "date": "2027-01-06T20:00Z",
+    "home": "Everton",
+    "away": "Aston Villa",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879175",
+    "date": "2027-01-06T20:00Z",
+    "home": "Crystal Palace",
+    "away": "Chelsea",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879176",
+    "date": "2027-01-06T20:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "AFC Bournemouth",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401879177",
+    "date": "2027-01-06T20:00Z",
+    "home": "Arsenal",
+    "away": "Brentford",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401878721",
+    "date": "2027-01-16T15:00Z",
+    "home": "Newcastle United",
+    "away": "Fulham",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401878722",
+    "date": "2027-01-16T15:00Z",
+    "home": "Manchester City",
+    "away": "Nottingham Forest",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401878723",
+    "date": "2027-01-16T15:00Z",
+    "home": "Hull City",
+    "away": "Arsenal",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401878724",
+    "date": "2027-01-16T15:00Z",
+    "home": "Coventry City",
+    "away": "Everton",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401878725",
+    "date": "2027-01-16T15:00Z",
+    "home": "Aston Villa",
+    "away": "Manchester United",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401878726",
+    "date": "2027-01-16T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Ipswich Town",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401879165",
+    "date": "2027-01-16T15:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Leeds United",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879166",
+    "date": "2027-01-16T15:00Z",
+    "home": "Liverpool",
+    "away": "Crystal Palace",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879167",
+    "date": "2027-01-16T15:00Z",
+    "home": "Chelsea",
+    "away": "Sunderland",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879168",
+    "date": "2027-01-16T15:00Z",
+    "home": "Brentford",
+    "away": "Brighton & Hove Albion",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401878717",
+    "date": "2027-01-23T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "AFC Bournemouth",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401878718",
+    "date": "2027-01-23T15:00Z",
+    "home": "Manchester United",
+    "away": "Liverpool",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401878719",
+    "date": "2027-01-23T15:00Z",
+    "home": "Fulham",
+    "away": "Aston Villa",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401878720",
+    "date": "2027-01-23T15:00Z",
+    "home": "Arsenal",
+    "away": "Newcastle United",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879159",
+    "date": "2027-01-23T15:00Z",
+    "home": "Sunderland",
+    "away": "Coventry City",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879160",
+    "date": "2027-01-23T15:00Z",
+    "home": "Leeds United",
+    "away": "Chelsea",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879161",
+    "date": "2027-01-23T15:00Z",
+    "home": "Ipswich Town",
+    "away": "Hull City",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879162",
+    "date": "2027-01-23T15:00Z",
+    "home": "Everton",
+    "away": "Brentford",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879163",
+    "date": "2027-01-23T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Tottenham Hotspur",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879164",
+    "date": "2027-01-23T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Manchester City",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878713",
+    "date": "2027-01-30T15:00Z",
+    "home": "Newcastle United",
+    "away": "Brighton & Hove Albion",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401878714",
+    "date": "2027-01-30T15:00Z",
+    "home": "Chelsea",
+    "away": "Nottingham Forest",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401878715",
+    "date": "2027-01-30T15:00Z",
+    "home": "Brentford",
+    "away": "Manchester United",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401878716",
+    "date": "2027-01-30T15:00Z",
+    "home": "Aston Villa",
+    "away": "Ipswich Town",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879153",
+    "date": "2027-01-30T15:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Sunderland",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879154",
+    "date": "2027-01-30T15:00Z",
+    "home": "Manchester City",
+    "away": "Arsenal",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879155",
+    "date": "2027-01-30T15:00Z",
+    "home": "Liverpool",
+    "away": "Everton",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879156",
+    "date": "2027-01-30T15:00Z",
+    "home": "Hull City",
+    "away": "Crystal Palace",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879157",
+    "date": "2027-01-30T15:00Z",
+    "home": "Coventry City",
+    "away": "Leeds United",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879158",
+    "date": "2027-01-30T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Fulham",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878709",
+    "date": "2027-02-06T15:00Z",
+    "home": "Sunderland",
+    "away": "Aston Villa",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878710",
+    "date": "2027-02-06T15:00Z",
+    "home": "Leeds United",
+    "away": "AFC Bournemouth",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401878711",
+    "date": "2027-02-06T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Hull City",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878712",
+    "date": "2027-02-06T15:00Z",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879147",
+    "date": "2027-02-06T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "Brentford",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879148",
+    "date": "2027-02-06T15:00Z",
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879149",
+    "date": "2027-02-06T15:00Z",
+    "home": "Ipswich Town",
+    "away": "Tottenham Hotspur",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879150",
+    "date": "2027-02-06T15:00Z",
+    "home": "Fulham",
+    "away": "Manchester City",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879151",
+    "date": "2027-02-06T15:00Z",
+    "home": "Everton",
+    "away": "Newcastle United",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879152",
+    "date": "2027-02-06T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Coventry City",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401878706",
+    "date": "2027-02-10T20:00Z",
+    "home": "Ipswich Town",
+    "away": "Arsenal",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401878707",
+    "date": "2027-02-10T20:00Z",
+    "home": "Everton",
+    "away": "Leeds United",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401878708",
+    "date": "2027-02-10T20:00Z",
+    "home": "Crystal Palace",
+    "away": "Brentford",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879140",
+    "date": "2027-02-10T20:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Manchester City",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879141",
+    "date": "2027-02-10T20:00Z",
+    "home": "Newcastle United",
+    "away": "Chelsea",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879142",
+    "date": "2027-02-10T20:00Z",
+    "home": "Manchester United",
+    "away": "Brighton & Hove Albion",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879143",
+    "date": "2027-02-10T20:00Z",
+    "home": "Hull City",
+    "away": "Sunderland",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879144",
+    "date": "2027-02-10T20:00Z",
+    "home": "Fulham",
+    "away": "Nottingham Forest",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879145",
+    "date": "2027-02-10T20:00Z",
+    "home": "Coventry City",
+    "away": "Liverpool",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879146",
+    "date": "2027-02-10T20:00Z",
+    "home": "Aston Villa",
+    "away": "AFC Bournemouth",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401878702",
+    "date": "2027-02-20T15:00Z",
+    "home": "Sunderland",
+    "away": "Everton",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878703",
+    "date": "2027-02-20T15:00Z",
+    "home": "Liverpool",
+    "away": "Hull City",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401878704",
+    "date": "2027-02-20T15:00Z",
+    "home": "Chelsea",
+    "away": "Ipswich Town",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401878705",
+    "date": "2027-02-20T15:00Z",
+    "home": "Arsenal",
+    "away": "Fulham",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879134",
+    "date": "2027-02-20T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "Manchester United",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879135",
+    "date": "2027-02-20T15:00Z",
+    "home": "Manchester City",
+    "away": "Newcastle United",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879136",
+    "date": "2027-02-20T15:00Z",
+    "home": "Leeds United",
+    "away": "Aston Villa",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879137",
+    "date": "2027-02-20T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Tottenham Hotspur",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401879138",
+    "date": "2027-02-20T15:00Z",
+    "home": "Brentford",
+    "away": "Coventry City",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879139",
+    "date": "2027-02-20T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Crystal Palace",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878697",
+    "date": "2027-02-27T15:00Z",
+    "home": "Manchester United",
+    "away": "Arsenal",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401878698",
+    "date": "2027-02-27T15:00Z",
+    "home": "Hull City",
+    "away": "Manchester City",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401878699",
+    "date": "2027-02-27T15:00Z",
+    "home": "Fulham",
+    "away": "Leeds United",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401878700",
+    "date": "2027-02-27T15:00Z",
+    "home": "Everton",
+    "away": "Nottingham Forest",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401878701",
+    "date": "2027-02-27T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Sunderland",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879129",
+    "date": "2027-02-27T15:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Liverpool",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879130",
+    "date": "2027-02-27T15:00Z",
+    "home": "Newcastle United",
+    "away": "Brentford",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879131",
+    "date": "2027-02-27T15:00Z",
+    "home": "Ipswich Town",
+    "away": "Brighton & Hove Albion",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879132",
+    "date": "2027-02-27T15:00Z",
+    "home": "Coventry City",
+    "away": "AFC Bournemouth",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879133",
+    "date": "2027-02-27T15:00Z",
+    "home": "Aston Villa",
+    "away": "Chelsea",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401878694",
+    "date": "2027-03-03T20:00Z",
+    "home": "Leeds United",
+    "away": "Hull City",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401878695",
+    "date": "2027-03-03T20:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Fulham",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878696",
+    "date": "2027-03-03T20:00Z",
+    "home": "Arsenal",
+    "away": "Crystal Palace",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879122",
+    "date": "2027-03-03T20:00Z",
+    "home": "Sunderland",
+    "away": "Manchester United",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879123",
+    "date": "2027-03-03T20:00Z",
+    "home": "Nottingham Forest",
+    "away": "Newcastle United",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879124",
+    "date": "2027-03-03T20:00Z",
+    "home": "Manchester City",
+    "away": "Everton",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879125",
+    "date": "2027-03-03T20:00Z",
+    "home": "Liverpool",
+    "away": "Aston Villa",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879126",
+    "date": "2027-03-03T20:00Z",
+    "home": "Chelsea",
+    "away": "Coventry City",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879127",
+    "date": "2027-03-03T20:00Z",
+    "home": "Brentford",
+    "away": "Ipswich Town",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879128",
+    "date": "2027-03-03T20:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Tottenham Hotspur",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878690",
+    "date": "2027-03-13T15:00Z",
+    "home": "Liverpool",
+    "away": "Ipswich Town",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401878691",
+    "date": "2027-03-13T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Fulham",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401878692",
+    "date": "2027-03-13T15:00Z",
+    "home": "Coventry City",
+    "away": "Manchester City",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401878693",
+    "date": "2027-03-13T15:00Z",
+    "home": "Chelsea",
+    "away": "Arsenal",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879116",
+    "date": "2027-03-13T15:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Nottingham Forest",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879117",
+    "date": "2027-03-13T15:00Z",
+    "home": "Sunderland",
+    "away": "Brentford",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879118",
+    "date": "2027-03-13T15:00Z",
+    "home": "Manchester United",
+    "away": "Everton",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879119",
+    "date": "2027-03-13T15:00Z",
+    "home": "Leeds United",
+    "away": "Brighton & Hove Albion",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879120",
+    "date": "2027-03-13T15:00Z",
+    "home": "Aston Villa",
+    "away": "Hull City",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879121",
+    "date": "2027-03-13T15:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Newcastle United",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878689",
+    "date": "2027-03-20T15:00Z",
+    "home": "Nottingham Forest",
+    "away": "Aston Villa",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879107",
+    "date": "2027-03-20T15:00Z",
+    "home": "Newcastle United",
+    "away": "Leeds United",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879108",
+    "date": "2027-03-20T15:00Z",
+    "home": "Manchester City",
+    "away": "Manchester United",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879109",
+    "date": "2027-03-20T15:00Z",
+    "home": "Ipswich Town",
+    "away": "Crystal Palace",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879110",
+    "date": "2027-03-20T15:00Z",
+    "home": "Hull City",
+    "away": "Chelsea",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879111",
+    "date": "2027-03-20T15:00Z",
+    "home": "Fulham",
+    "away": "Liverpool",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879112",
+    "date": "2027-03-20T15:00Z",
+    "home": "Everton",
+    "away": "Tottenham Hotspur",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879113",
+    "date": "2027-03-20T15:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Coventry City",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401879114",
+    "date": "2027-03-20T15:00Z",
+    "home": "Brentford",
+    "away": "AFC Bournemouth",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879115",
+    "date": "2027-03-20T15:00Z",
+    "home": "Arsenal",
+    "away": "Sunderland",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401878687",
+    "date": "2027-04-10T14:00Z",
+    "home": "Sunderland",
+    "away": "Ipswich Town",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878688",
+    "date": "2027-04-10T14:00Z",
+    "home": "Leeds United",
+    "away": "Nottingham Forest",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879099",
+    "date": "2027-04-10T14:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Brentford",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879100",
+    "date": "2027-04-10T14:00Z",
+    "home": "Manchester United",
+    "away": "Hull City",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879101",
+    "date": "2027-04-10T14:00Z",
+    "home": "Liverpool",
+    "away": "Newcastle United",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879102",
+    "date": "2027-04-10T14:00Z",
+    "home": "Crystal Palace",
+    "away": "Everton",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879103",
+    "date": "2027-04-10T14:00Z",
+    "home": "Coventry City",
+    "away": "Arsenal",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879104",
+    "date": "2027-04-10T14:00Z",
+    "home": "Chelsea",
+    "away": "Fulham",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879105",
+    "date": "2027-04-10T14:00Z",
+    "home": "Aston Villa",
+    "away": "Brighton & Hove Albion",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879106",
+    "date": "2027-04-10T14:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Manchester City",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878681",
+    "date": "2027-04-17T14:00Z",
+    "home": "Nottingham Forest",
+    "away": "Liverpool",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401878682",
+    "date": "2027-04-17T14:00Z",
+    "home": "Newcastle United",
+    "away": "Tottenham Hotspur",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401878683",
+    "date": "2027-04-17T14:00Z",
+    "home": "Hull City",
+    "away": "Coventry City",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401878684",
+    "date": "2027-04-17T14:00Z",
+    "home": "Everton",
+    "away": "AFC Bournemouth",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401878685",
+    "date": "2027-04-17T14:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Chelsea",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878686",
+    "date": "2027-04-17T14:00Z",
+    "home": "Arsenal",
+    "away": "Aston Villa",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879095",
+    "date": "2027-04-17T14:00Z",
+    "home": "Manchester City",
+    "away": "Crystal Palace",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879096",
+    "date": "2027-04-17T14:00Z",
+    "home": "Ipswich Town",
+    "away": "Manchester United",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879097",
+    "date": "2027-04-17T14:00Z",
+    "home": "Fulham",
+    "away": "Sunderland",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879098",
+    "date": "2027-04-17T14:00Z",
+    "home": "Brentford",
+    "away": "Leeds United",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401878677",
+    "date": "2027-04-24T14:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Hull City",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401878678",
+    "date": "2027-04-24T14:00Z",
+    "home": "Brentford",
+    "away": "Fulham",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401878679",
+    "date": "2027-04-24T14:00Z",
+    "home": "Aston Villa",
+    "away": "Coventry City",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401878680",
+    "date": "2027-04-24T14:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Arsenal",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401879089",
+    "date": "2027-04-24T14:00Z",
+    "home": "Nottingham Forest",
+    "away": "Sunderland",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401879090",
+    "date": "2027-04-24T14:00Z",
+    "home": "Newcastle United",
+    "away": "Ipswich Town",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879091",
+    "date": "2027-04-24T14:00Z",
+    "home": "Manchester United",
+    "away": "Crystal Palace",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879092",
+    "date": "2027-04-24T14:00Z",
+    "home": "Leeds United",
+    "away": "Liverpool",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879093",
+    "date": "2027-04-24T14:00Z",
+    "home": "Everton",
+    "away": "Brighton & Hove Albion",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879094",
+    "date": "2027-04-24T14:00Z",
+    "home": "Chelsea",
+    "away": "Manchester City",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401878673",
+    "date": "2027-05-01T14:00Z",
+    "home": "Sunderland",
+    "away": "Newcastle United",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878674",
+    "date": "2027-05-01T14:00Z",
+    "home": "Liverpool",
+    "away": "Chelsea",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401878675",
+    "date": "2027-05-01T14:00Z",
+    "home": "Coventry City",
+    "away": "Manchester United",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401878676",
+    "date": "2027-05-01T14:00Z",
+    "home": "Arsenal",
+    "away": "Tottenham Hotspur",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879083",
+    "date": "2027-05-01T14:00Z",
+    "home": "Manchester City",
+    "away": "Brentford",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879084",
+    "date": "2027-05-01T14:00Z",
+    "home": "Ipswich Town",
+    "away": "Leeds United",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879085",
+    "date": "2027-05-01T14:00Z",
+    "home": "Hull City",
+    "away": "AFC Bournemouth",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879086",
+    "date": "2027-05-01T14:00Z",
+    "home": "Fulham",
+    "away": "Everton",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879087",
+    "date": "2027-05-01T14:00Z",
+    "home": "Crystal Palace",
+    "away": "Aston Villa",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879088",
+    "date": "2027-05-01T14:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Nottingham Forest",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878666",
+    "date": "2027-05-08T14:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Chelsea",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401878667",
+    "date": "2027-05-08T14:00Z",
+    "home": "Nottingham Forest",
+    "away": "Crystal Palace",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401878668",
+    "date": "2027-05-08T14:00Z",
+    "home": "Manchester City",
+    "away": "Liverpool",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401878669",
+    "date": "2027-05-08T14:00Z",
+    "home": "Fulham",
+    "away": "Ipswich Town",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401878670",
+    "date": "2027-05-08T14:00Z",
+    "home": "Everton",
+    "away": "Hull City",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401878671",
+    "date": "2027-05-08T14:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Sunderland",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401878672",
+    "date": "2027-05-08T14:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Manchester United",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401879080",
+    "date": "2027-05-08T14:00Z",
+    "home": "Newcastle United",
+    "away": "Coventry City",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879081",
+    "date": "2027-05-08T14:00Z",
+    "home": "Leeds United",
+    "away": "Arsenal",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879082",
+    "date": "2027-05-08T14:00Z",
+    "home": "Brentford",
+    "away": "Aston Villa",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401878663",
+    "date": "2027-05-15T14:00Z",
+    "home": "Liverpool",
+    "away": "Brentford",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401878664",
+    "date": "2027-05-15T14:00Z",
+    "home": "Crystal Palace",
+    "away": "Brighton & Hove Albion",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401878665",
+    "date": "2027-05-15T14:00Z",
+    "home": "Aston Villa",
+    "away": "Newcastle United",
+    "venue": "Villa Park"
+  },
+  {
+    "id": "401879073",
+    "date": "2027-05-15T14:00Z",
+    "home": "Sunderland",
+    "away": "AFC Bournemouth",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401879074",
+    "date": "2027-05-15T14:00Z",
+    "home": "Manchester United",
+    "away": "Leeds United",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879075",
+    "date": "2027-05-15T14:00Z",
+    "home": "Ipswich Town",
+    "away": "Manchester City",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879076",
+    "date": "2027-05-15T14:00Z",
+    "home": "Hull City",
+    "away": "Fulham",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879077",
+    "date": "2027-05-15T14:00Z",
+    "home": "Coventry City",
+    "away": "Tottenham Hotspur",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401879078",
+    "date": "2027-05-15T14:00Z",
+    "home": "Chelsea",
+    "away": "Everton",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879079",
+    "date": "2027-05-15T14:00Z",
+    "home": "Arsenal",
+    "away": "Nottingham Forest",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401878661",
+    "date": "2027-05-23T14:00Z",
+    "home": "Nottingham Forest",
+    "away": "Ipswich Town",
+    "venue": "The City Ground"
+  },
+  {
+    "id": "401878662",
+    "date": "2027-05-23T14:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Liverpool",
+    "venue": "American Express Stadium"
+  },
+  {
+    "id": "401879065",
+    "date": "2027-05-23T14:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Manchester United",
+    "venue": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": "401879066",
+    "date": "2027-05-23T14:00Z",
+    "home": "Newcastle United",
+    "away": "Crystal Palace",
+    "venue": "St. James' Park"
+  },
+  {
+    "id": "401879067",
+    "date": "2027-05-23T14:00Z",
+    "home": "Manchester City",
+    "away": "Aston Villa",
+    "venue": "Etihad Stadium"
+  },
+  {
+    "id": "401879068",
+    "date": "2027-05-23T14:00Z",
+    "home": "Leeds United",
+    "away": "Sunderland",
+    "venue": "Elland Road"
+  },
+  {
+    "id": "401879069",
+    "date": "2027-05-23T14:00Z",
+    "home": "Fulham",
+    "away": "Coventry City",
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": "401879070",
+    "date": "2027-05-23T14:00Z",
+    "home": "Everton",
+    "away": "Arsenal",
+    "venue": "Hill Dickinson Stadium"
+  },
+  {
+    "id": "401879071",
+    "date": "2027-05-23T14:00Z",
+    "home": "Brentford",
+    "away": "Hull City",
+    "venue": "Gtech Community Stadium"
+  },
+  {
+    "id": "401879072",
+    "date": "2027-05-23T14:00Z",
+    "home": "AFC Bournemouth",
+    "away": "Chelsea",
+    "venue": "Vitality Stadium"
+  },
+  {
+    "id": "401878658",
+    "date": "2027-05-30T15:00Z",
+    "home": "Sunderland",
+    "away": "Manchester City",
+    "venue": "Stadium of Light"
+  },
+  {
+    "id": "401878659",
+    "date": "2027-05-30T15:00Z",
+    "home": "Coventry City",
+    "away": "Nottingham Forest",
+    "venue": "The Coventry Building Society Arena"
+  },
+  {
+    "id": "401878660",
+    "date": "2027-05-30T15:00Z",
+    "home": "Arsenal",
+    "away": "Brighton & Hove Albion",
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": "401879058",
+    "date": "2027-05-30T15:00Z",
+    "home": "Manchester United",
+    "away": "Fulham",
+    "venue": "Old Trafford"
+  },
+  {
+    "id": "401879059",
+    "date": "2027-05-30T15:00Z",
+    "home": "Liverpool",
+    "away": "AFC Bournemouth",
+    "venue": "Anfield"
+  },
+  {
+    "id": "401879060",
+    "date": "2027-05-30T15:00Z",
+    "home": "Ipswich Town",
+    "away": "Everton",
+    "venue": "Portman Road"
+  },
+  {
+    "id": "401879061",
+    "date": "2027-05-30T15:00Z",
+    "home": "Hull City",
+    "away": "Newcastle United",
+    "venue": "The MKM Stadium"
+  },
+  {
+    "id": "401879062",
+    "date": "2027-05-30T15:00Z",
+    "home": "Crystal Palace",
+    "away": "Leeds United",
+    "venue": "Selhurst Park"
+  },
+  {
+    "id": "401879063",
+    "date": "2027-05-30T15:00Z",
+    "home": "Chelsea",
+    "away": "Brentford",
+    "venue": "Stamford Bridge"
+  },
+  {
+    "id": "401879064",
+    "date": "2027-05-30T15:00Z",
+    "home": "Aston Villa",
+    "away": "Tottenham Hotspur",
+    "venue": "Villa Park"
+  }
+]

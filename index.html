@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>EPL 2026-27 Predictor</title>
+    <meta name="description" content="An English Premier League 2026-27 predictor using Elo ratings, Poisson scorelines, and Monte Carlo season simulations. All kickoff times in Singapore time.">
+    <script>
+      try {
+        if (localStorage.getItem("epl27-theme") === "light") {
+          document.documentElement.classList.add("light");
+        }
+      } catch (error) {}
+    </script>
+    <link rel="stylesheet" href="./styles.css?v=1">
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="./app.js?v=1"></script>
+    <div id="bmc-widget" class="bmc-widget" hidden>
+      <a class="bmc-fallback" href="https://www.buymeacoffee.com/eswl" target="_blank" rel="noreferrer noopener">Buy me a coffee</a>
+    </div>
+    <script>
+      window.addEventListener("load", () => {
+        window.setTimeout(() => {
+          const container = document.querySelector("#bmc-widget");
+          if (!container) return;
+          container.hidden = false;
+
+          const script = document.createElement("script");
+          const attributes = {
+            type: "text/javascript",
+            src: "https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js",
+            "data-name": "bmc-button",
+            "data-slug": "eswl",
+            "data-color": "#FF5F5F",
+            "data-emoji": "",
+            "data-font": "Arial",
+            "data-text": "Buy me a coffee",
+            "data-outline-color": "#000000",
+            "data-font-color": "#ffffff",
+            "data-coffee-color": "#FFDD00",
+          };
+
+          Object.entries(attributes).forEach(([key, value]) => {
+            script.setAttribute(key, value);
+          });
+
+          script.addEventListener("load", () => {
+            window.setTimeout(() => {
+              const rendered = container.querySelector(".bmc-btn, .bmc-button, iframe, a:not(.bmc-fallback)");
+              if (rendered) container.classList.add("loaded");
+            }, 500);
+          });
+
+          container.appendChild(script);
+        }, 3000);
+      }, { once: true });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-07-08T10:13:05.302Z",
+  "sourceUrl": "https://online.singaporepools.com/en/sports",
+  "competitionUrl": "https://online.singaporepools.com/en/sports/competition/36/football/england/english-premier",
+  "mode": "availability_only",
+  "status": "checked_no_public_events",
+  "note": "Singapore Pools public pages were checked, but no English Premier League event listings were exposed.",
+  "betTypes": [
+    {
+      "code": "WH",
+      "name": "1/2 Goal"
+    },
+    {
+      "code": "FS",
+      "name": "1st Goal Scorer"
+    },
+    {
+      "code": "MR",
+      "name": "1X2"
+    },
+    {
+      "code": "AH",
+      "name": "Asian Handicap/HT Asian Handicap"
+    },
+    {
+      "code": "H1",
+      "name": "Halftime 1x2"
+    },
+    {
+      "code": "TG2",
+      "name": "Halftime Total Goals"
+    },
+    {
+      "code": "HF",
+      "name": "Halftime-Fulltime"
+    },
+    {
+      "code": "MH",
+      "name": "Handicap 1X2"
+    },
+    {
+      "code": "LS",
+      "name": "Last Goal Scorer"
+    },
+    {
+      "code": "CS",
+      "name": "Pick the Score"
+    },
+    {
+      "code": "NGN",
+      "name": "Team to Score 1st Goal"
+    },
+    {
+      "code": "EG",
+      "name": "Total Goals"
+    },
+    {
+      "code": "OE",
+      "name": "Total Goals Odd/Even"
+    },
+    {
+      "code": "HL",
+      "name": "Total Goals Over/Under"
+    },
+    {
+      "code": "BG",
+      "name": "Will Both Teams Score"
+    }
+  ],
+  "events": [],
+  "checkedPages": [
+    {
+      "label": "epl",
+      "url": "https://online.singaporepools.com/en/sports/competition/36/football/england/english-premier",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 117511,
+      "error": null
+    },
+    {
+      "label": "england",
+      "url": "https://online.singaporepools.com/en/sports/region/4/football/england",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 117511,
+      "error": null
+    },
+    {
+      "label": "sports",
+      "url": "https://online.singaporepools.com/en/sports",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 117511,
+      "error": null
+    },
+    {
+      "label": "opening-odds",
+      "url": "https://online.singaporepools.com/en/sports/opening-odds",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 107259,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "season": "2026-27 English Premier League",
+  "priorsNote": "Subjective preseason Elo priors set July 2026 from recent seasons' strength; live ratings update from results with margin-of-victory scaling.",
+  "teams": [
+    { "name": "Arsenal", "short": "Arsenal", "code": "ARS", "espnId": "359", "prior": 1970 },
+    { "name": "Aston Villa", "short": "Aston Villa", "code": "AVL", "espnId": "362", "prior": 1835 },
+    { "name": "AFC Bournemouth", "short": "Bournemouth", "code": "BOU", "espnId": "349", "prior": 1790 },
+    { "name": "Brentford", "short": "Brentford", "code": "BRE", "espnId": "337", "prior": 1775 },
+    { "name": "Brighton & Hove Albion", "short": "Brighton", "code": "BHA", "espnId": "331", "prior": 1810 },
+    { "name": "Chelsea", "short": "Chelsea", "code": "CHE", "espnId": "363", "prior": 1900 },
+    { "name": "Coventry City", "short": "Coventry", "code": "COV", "espnId": "388", "prior": 1640 },
+    { "name": "Crystal Palace", "short": "Crystal Palace", "code": "CRY", "espnId": "384", "prior": 1780 },
+    { "name": "Everton", "short": "Everton", "code": "EVE", "espnId": "368", "prior": 1750 },
+    { "name": "Fulham", "short": "Fulham", "code": "FUL", "espnId": "370", "prior": 1765 },
+    { "name": "Hull City", "short": "Hull", "code": "HUL", "espnId": "306", "prior": 1600 },
+    { "name": "Ipswich Town", "short": "Ipswich", "code": "IPS", "espnId": "373", "prior": 1625 },
+    { "name": "Leeds United", "short": "Leeds", "code": "LEE", "espnId": "357", "prior": 1720 },
+    { "name": "Liverpool", "short": "Liverpool", "code": "LIV", "espnId": "364", "prior": 1985 },
+    { "name": "Manchester City", "short": "Man City", "code": "MNC", "espnId": "382", "prior": 1975 },
+    { "name": "Manchester United", "short": "Man United", "code": "MAN", "espnId": "360", "prior": 1820 },
+    { "name": "Newcastle United", "short": "Newcastle", "code": "NEW", "espnId": "361", "prior": 1855 },
+    { "name": "Nottingham Forest", "short": "Nott'm Forest", "code": "NFO", "espnId": "393", "prior": 1780 },
+    { "name": "Sunderland", "short": "Sunderland", "code": "SUN", "espnId": "366", "prior": 1690 },
+    { "name": "Tottenham Hotspur", "short": "Tottenham", "code": "TOT", "espnId": "367", "prior": 1840 }
+  ]
+}
