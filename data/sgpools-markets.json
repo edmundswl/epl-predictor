@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-12T03:48:57.743Z",
+  "generatedAt": "2026-07-13T03:51:16.001Z",
   "sourceUrl": "https://online.singaporepools.com/en/sports",
   "competitionUrl": "https://online.singaporepools.com/en/sports/competition/36/football/england/english-premier",
   "mode": "availability_only",
-  "status": "checked_no_public_events",
-  "note": "Singapore Pools public pages were checked, but no English Premier League event listings were exposed.",
+  "status": "availability_snapshot",
+  "note": "Singapore Pools public pages exposed English Premier League event listings. Live prices are intentionally not fetched.",
   "betTypes": [
     {
       "code": "WH",
@@ -67,7 +67,19 @@
       "name": "Will Both Teams Score"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "competition": "W Cup",
+      "home": "France",
+      "away": "Morocco",
+      "kickoff": null,
+      "status": "public-listing",
+      "source": "epl",
+      "sourceUrl": "https://online.singaporepools.com/en/sports/competition/36/football/england/english-premier",
+      "eventId": "140306",
+      "markets": []
+    }
+  ],
   "checkedPages": [
     {
       "label": "epl",
@@ -75,7 +87,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 117815,
+      "bytes": 117101,
       "error": null
     },
     {
@@ -84,7 +96,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 117815,
+      "bytes": 117101,
       "error": null
     },
     {
@@ -93,7 +105,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 117815,
+      "bytes": 117101,
       "error": null
     },
     {
@@ -102,7 +114,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 107563,
+      "bytes": 106653,
       "error": null
     }
   ]
