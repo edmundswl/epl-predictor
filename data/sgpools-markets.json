@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-20T03:56:58.517Z",
+  "generatedAt": "2026-07-21T03:36:18.181Z",
   "sourceUrl": "https://online.singaporepools.com/en/sports",
   "competitionUrl": "https://online.singaporepools.com/en/sports/competition/36/football/england/english-premier",
   "mode": "availability_only",
-  "status": "availability_snapshot",
-  "note": "Singapore Pools public pages exposed English Premier League event listings. Live prices are intentionally not fetched.",
+  "status": "checked_no_public_events",
+  "note": "Singapore Pools public pages were checked, but no English Premier League event listings were exposed.",
   "betTypes": [
     {
       "code": "WH",
@@ -67,19 +67,7 @@
       "name": "Will Both Teams Score"
     }
   ],
-  "events": [
-    {
-      "competition": "K League",
-      "home": "Incheon",
-      "away": "Jeonbuk",
-      "kickoff": null,
-      "status": "public-listing",
-      "source": "epl",
-      "sourceUrl": "https://online.singaporepools.com/en/sports/competition/36/football/england/english-premier",
-      "eventId": "140444",
-      "markets": []
-    }
-  ],
+  "events": [],
   "checkedPages": [
     {
       "label": "epl",
@@ -87,7 +75,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 116688,
+      "bytes": 118012,
       "error": null
     },
     {
@@ -96,7 +84,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 116688,
+      "bytes": 118012,
       "error": null
     },
     {
@@ -105,7 +93,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 116688,
+      "bytes": 118012,
       "error": null
     },
     {
@@ -114,7 +102,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 106400,
+      "bytes": 109174,
       "error": null
     }
   ]
