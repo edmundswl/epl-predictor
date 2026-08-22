@@ -6,5 +6,13 @@
     "away": "Coventry City",
     "homeGoals": 3,
     "awayGoals": 0
+  },
+  {
+    "id": "401879322",
+    "date": "2026-08-22T11:30Z",
+    "home": "Hull City",
+    "away": "Manchester United",
+    "homeGoals": 2,
+    "awayGoals": 0
   }
 ]
