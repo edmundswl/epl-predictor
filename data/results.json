@@ -46,5 +46,21 @@
     "away": "Tottenham Hotspur",
     "homeGoals": 3,
     "awayGoals": 0
+  },
+  {
+    "id": "401879297",
+    "date": "2026-08-23T13:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Aston Villa",
+    "homeGoals": 4,
+    "awayGoals": 0
+  },
+  {
+    "id": "401879320",
+    "date": "2026-08-23T13:00Z",
+    "home": "Manchester City",
+    "away": "AFC Bournemouth",
+    "homeGoals": 2,
+    "awayGoals": 1
   }
 ]
