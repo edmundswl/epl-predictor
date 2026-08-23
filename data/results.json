@@ -62,5 +62,13 @@
     "away": "AFC Bournemouth",
     "homeGoals": 2,
     "awayGoals": 1
+  },
+  {
+    "id": "401879319",
+    "date": "2026-08-23T15:30Z",
+    "home": "Newcastle United",
+    "away": "Liverpool",
+    "homeGoals": 2,
+    "awayGoals": 2
   }
 ]
