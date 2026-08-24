@@ -70,5 +70,13 @@
     "away": "Liverpool",
     "homeGoals": 2,
     "awayGoals": 2
+  },
+  {
+    "id": "401879318",
+    "date": "2026-08-24T19:00Z",
+    "home": "Fulham",
+    "away": "Chelsea",
+    "homeGoals": 2,
+    "awayGoals": 3
   }
 ]
