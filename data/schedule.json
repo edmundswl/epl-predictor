@@ -308,13 +308,6 @@
     "venue": "St. James' Park"
   },
   {
-    "id": "401879272",
-    "date": "2026-09-19T14:00Z",
-    "home": "Manchester City",
-    "away": "Sunderland",
-    "venue": "Etihad Stadium"
-  },
-  {
     "id": "401879273",
     "date": "2026-09-19T14:00Z",
     "home": "Leeds United",
@@ -334,6 +327,13 @@
     "home": "Nottingham Forest",
     "away": "Coventry City",
     "venue": "The City Ground"
+  },
+  {
+    "id": "401879272",
+    "date": "2026-09-20T13:00Z",
+    "home": "Manchester City",
+    "away": "Sunderland",
+    "venue": "Etihad Stadium"
   },
   {
     "id": "401879276",
