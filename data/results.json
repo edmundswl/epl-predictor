@@ -78,5 +78,13 @@
     "away": "Chelsea",
     "homeGoals": 2,
     "awayGoals": 3
+  },
+  {
+    "id": "401879294",
+    "date": "2026-08-28T19:00Z",
+    "home": "Crystal Palace",
+    "away": "Manchester City",
+    "homeGoals": 1,
+    "awayGoals": 4
   }
 ]
