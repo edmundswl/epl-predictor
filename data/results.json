@@ -118,5 +118,37 @@
     "away": "Newcastle United",
     "homeGoals": 0,
     "awayGoals": 2
+  },
+  {
+    "id": "401879313",
+    "date": "2026-08-30T13:00Z",
+    "home": "Sunderland",
+    "away": "Fulham",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "401879315",
+    "date": "2026-08-30T13:00Z",
+    "home": "Leeds United",
+    "away": "Brentford",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "401879317",
+    "date": "2026-08-30T13:00Z",
+    "home": "Chelsea",
+    "away": "Brighton & Hove Albion",
+    "homeGoals": 4,
+    "awayGoals": 3
+  },
+  {
+    "id": "401879293",
+    "date": "2026-08-30T15:30Z",
+    "home": "Manchester United",
+    "away": "Ipswich Town",
+    "homeGoals": 5,
+    "awayGoals": 2
   }
 ]
