@@ -158,5 +158,13 @@
     "away": "Arsenal",
     "homeGoals": 0,
     "awayGoals": 1
+  },
+  {
+    "id": "401879288",
+    "date": "2026-09-04T19:00Z",
+    "home": "Ipswich Town",
+    "away": "Liverpool",
+    "homeGoals": 0,
+    "awayGoals": 2
   }
 ]
