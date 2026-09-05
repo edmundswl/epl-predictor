@@ -166,5 +166,53 @@
     "away": "Liverpool",
     "homeGoals": 0,
     "awayGoals": 2
+  },
+  {
+    "id": "401879286",
+    "date": "2026-09-05T11:30Z",
+    "home": "Newcastle United",
+    "away": "AFC Bournemouth",
+    "homeGoals": 2,
+    "awayGoals": 2
+  },
+  {
+    "id": "401878780",
+    "date": "2026-09-05T14:00Z",
+    "home": "Nottingham Forest",
+    "away": "Tottenham Hotspur",
+    "homeGoals": 0,
+    "awayGoals": 0
+  },
+  {
+    "id": "401879287",
+    "date": "2026-09-05T14:00Z",
+    "home": "Manchester City",
+    "away": "Coventry City",
+    "homeGoals": 1,
+    "awayGoals": 0
+  },
+  {
+    "id": "401879289",
+    "date": "2026-09-05T14:00Z",
+    "home": "Fulham",
+    "away": "Crystal Palace",
+    "homeGoals": 2,
+    "awayGoals": 3
+  },
+  {
+    "id": "401879290",
+    "date": "2026-09-05T14:00Z",
+    "home": "Brighton & Hove Albion",
+    "away": "Leeds United",
+    "homeGoals": 1,
+    "awayGoals": 1
+  },
+  {
+    "id": "401879311",
+    "date": "2026-09-05T14:00Z",
+    "home": "Brentford",
+    "away": "Sunderland",
+    "homeGoals": 1,
+    "awayGoals": 1
   }
 ]
